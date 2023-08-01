@@ -13,8 +13,8 @@ const smtpConfig = {
   port: 587,
   secure: false,
   auth: {
-    user: 'parkercmcleod@gmail.com',  
-    pass: 'Hjmp=K-??pPdF@6',
+    user: '***REMOVED***',  
+    pass: '***REMOVED***',
   },
 };
 
