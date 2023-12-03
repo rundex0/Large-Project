@@ -83,9 +83,7 @@ To deploy PawHub on Digital Ocean, follow these steps:
 3. Set up your environment variables on the Droplet.
 4. Install dependencies and start the application.
 
-## Contributing
-
-We welcome contributions! Feel free to open issues, submit pull requests, or suggest features to make PawHub even better.
+   
 ![Screenshot from 2023-07-30 11-15-28](https://github.com/rundex0/Large-Project/assets/69157728/d69d9ed1-9a20-414d-8a54-129754f9ec61)
 ![Screenshot from 2023-07-30 11-15-58](https://github.com/rundex0/Large-Project/assets/69157728/15e13f8a-5afb-44d4-bb4b-4f2a81fe6949)
 ![Screenshot from 2023-07-30 11-16-15](https://github.com/rundex0/Large-Project/assets/69157728/99c191ba-06d1-4c29-812c-6cc387d3428d)
